@@ -1,0 +1,45 @@
+fecha,id_caso,descripcion,estado_caso,categoria,latitud,longitud
+2016-09-06,1,Robo en callejón sin salida,1,robo,-34.6,-58.38
+2016-09-07,2,Asesinato en callejón sin salida,2,asesinato,-34.6,-58.38
+2016-10-08,3,Asalto a banco,3,robo,-34.6,-58.38
+2016-10-16,4,Femicidio,1,femicidio,-34.6,-58.38
+2016-11-06,5,Asalto con toma de rehenes,2,robo,-34.6,-58.38
+2017-11-06,6,Robo de auto,3,robo de vehiculos,-34.6,-58.38
+2017-12-01,7,Huída tras atropello vehicular,1,tránsito,-34.6,-58.38
+2017-12-26,8,Hurto a comensales de un restaurante,1,hurto,-34.6,-58.38
+2017-01-01,9,Venta ilegal de armas,1,venta de armas,-34.6,-58.38
+2017-01-21,10,Hurto en la biblioteca,3,hurto,-34.6,-58.38
+2017-02-05,11,Asesinato en callejón sin salida,1,asesinato,-34.6,-58.38
+2017-02-10,12,Asalto a banco,2,robo,-34.6,-58.38
+2017-03-10,13,Femicidio,2,femicidio,-34.6,-58.38
+2017-03-11,14,Femicidio,1,femicidio,-34.6,-58.38
+2017-03-13,15,Asalto con toma de rehenes,1,robo,-34.6,-58.38
+2017-04-02,16,Robo de auto,1,robo de vehiculos,-34.6,-58.38
+2017-04-07,17,Huída tras atropello vehicular,3,tránsito,-34.6,-58.38
+2017-05-06,18,Hurto en el cine,2,hurto,-34.6,-58.38
+2017-05-09,19,Venta ilegal de armas,1,venta de armas,-34.6,-58.38
+2017-06-13,20,Venta de cocaína,1,narcotráfico,-34.6,-58.38
+2017-06-21,21,Femicidio,2,femicidio,-34.6,-58.38
+2017-07-01,22,Venta de metanfetaminas,3,narcotráfico,-34.6,-58.38
+2017-07-08,23,Femicidio,1,femicidio,-34.6,-58.38
+2017-08-08,24,Asalto a banco,1,robo,-34.6,-58.38
+2017-09-17,25,Femicidio,3,femicidio,-34.6,-58.38
+2017-10-08,26,Asalto con toma de rehenes,1,robo,-34.6,-58.38
+2017-11-16,27,Robo de auto,1,robo de vehiculos,-34.6,-58.38
+2017-12-11,28,Incendio intencional de una escuela,2,incendio intencional,-34.6,-58.38
+2017-12-16,29,Hurto de valija en el aeropuerto,2,hurto,-34.6,-58.38
+2018-01-21,30,Venta ilegal de armas,2,venta de armas,-34.6,-58.38
+2018-01-23,31,Hurto en la biblioteca,2,hurto,-34.6,-58.38
+2018-02-07,32,Asesinato en callejón sin salida,2,asesinato,-34.6,-58.38
+2018-02-28,33,Asalto a banco,3,robo,-34.6,-58.38
+2018-03-03,34,Femicidio,1,femicidio,-34.6,-58.38
+2018-03-11,35,Femicidio,2,femicidio,-34.6,-58.38
+2018-03-30,36,Asalto con toma de rehenes,2,robo,-34.6,-58.38
+2018-04-01,37,Robo de auto,2,robo de vehiculos,-34.6,-58.38
+2018-04-18,38,Incendio intencional de la comisaría,1,incendio intencional,-34.6,-58.38
+2018-05-03,39,Hurto a comensales de un restaurante,2,hurto,-34.6,-58.38
+2018-05-19,40,Venta ilegal de armas,2,venta de armas,-34.6,-58.38
+2018-06-23,41,Venta de cocaína,2,narcotráfico,-34.6,-58.38
+2018-06-25,42,Femicidio,2,femicidio,-34.6,-58.38
+2018-07-01,43,Incendio intencional de un banco,1,incendio intencional,-34.6,-58.38
+2018-07-12,42,Femicidio,2,femicidio,-34.6,-58.38
